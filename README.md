@@ -1,6 +1,6 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [WindTerm](https://github.com/kingToolbox/WindTerm)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [WindTerm](https://github.com/kingToolbox/WindTerm).
 
 ![Screenshot](./screenshot.png)
 
@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Leandro Padula](https://github.com/lpadula.png?size=100)](https://github.com/lpadula) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Leandro Padula](https://github.com/lpadula) |
 
 ## License
 
